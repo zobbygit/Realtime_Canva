@@ -448,9 +448,9 @@ SOFTWARE.
 
 ## 📧 Contact
 
-**Harshit Singh**
-- GitHub: [@harshitsingh4321](https://github.com/harshitsingh4321)
-- Project Link: [https://github.com/harshitsingh4321/Collaborative-Canvas](https://github.com/harshitsingh4321/Collaborative-Canvas)
+**Zohaib Aslam**
+- GitHub: [@zobbygit](https://github.com/zobbygit)
+- Project Link: [https://github.com/zobbygit/Realtime_Canva](https://github.com/zobbygit/Realtime_Canva)
 
 ---
 
