@@ -69,7 +69,7 @@ A modern, fast, and beautiful real-time collaborative whiteboard where multiple 
 <a name="live-demo"></a>
 ## 🚀 Live Demo
 
-🔗 **https://collaborative-canvas-y4d9.onrender.com**
+🔗 **https://realtime-canva-2502.onrender.com**
 
 Try opening it in multiple tabs or devices to see real-time synchronization in action!
 
@@ -136,7 +136,7 @@ Multiple users drawing together with instant synchronization.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/harshitsingh4321/Collaborative-Canvas
+git clone https://github.com/zobbygit/Realtime_Canva .
 cd Collaborative-Canvas
 ```
 
