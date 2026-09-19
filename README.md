@@ -382,7 +382,7 @@ Contributions are welcome! Here's how you can help:
 
 ### Reporting Issues
 
-🔗 **Issues**: https://github.com/harshitsingh4321/Collaborative-Canvas/issues
+🔗 **Issues**: https://github.com/zobbygit/Realtime_Canva
 
 Please include:
 - Browser and version
